@@ -22,7 +22,7 @@ What things you need to install the software and how to install them
 2. Install requirements packages within the repo
     ```
     cd london-city-council-meeting-notes
-    pip install -r requirments.txt
+    pip install -r requirements.txt
     ```
 
 ## Running the tests
