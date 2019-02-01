@@ -11,6 +11,7 @@ Use [NLKT](https://www.nltk.org/) to do text mining within
 What things you need to install the software and how to install them
 1. Python 3.*
 2. Pip
+3. [NLKT](https://www.nltk.org/install.html) and its [data](https://www.nltk.org/data.html)
 
 ### Installing
 
