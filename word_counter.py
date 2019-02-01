@@ -107,7 +107,7 @@ def write_to_file(words, file='results.txt'):
 
 if __name__ == '__main__':
     book = sys.argv[1]
-    print "counting..."
+    print("counting...")
     words = get_words(book)
-    print "writing file..."
+    print("writing file...")
     write_to_file(append_ext(words.most_common()))
